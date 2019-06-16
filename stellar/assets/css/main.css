@@ -3119,8 +3119,8 @@ input, select, textarea {
 				transition-delay: 0s;
 				display: block;
 				margin: 0 0 1.5em 0;
-				-webkit-filter: grayscale(100%);
-				filter: grayscale(100%);
+				/* -webkit-filter: grayscale(100%);
+				filter: grayscale(100%); */
 			}
 
 				#header.alt .logo img {
